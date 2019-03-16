@@ -1,2 +1,3 @@
 # datasciencecoursera
-Data Scientist's Toolbox
+Coursera Data Science Specialization 
+Data Scientist's Toolbox Course Project 
